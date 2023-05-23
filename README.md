@@ -2,7 +2,7 @@
 
 # Hello everyone!
 
-## A few details about myself
+## <span style="color: #2E6CE5;">A few details about myself</span>
 
 I am a web designer and front-end developer with a passion for creating beautiful, responsive and user-friendly websites. I specialize in HTML, CSS and some JavaScript and have experience with various frameworks such as Bootstrap. I also love cookies and music 🍪🎸
 
@@ -10,8 +10,7 @@ Apart from coding, I love to experiment with different design tools, I usually u
 
 ---
 
-```
-## And a little story
+## <span style="color: #5639E5;">And a little story</span>
 
 Once upon a time, there was an electric guitar that had the ability to think and feel. She loved music dearly and cherished the human who played her every day.
 
@@ -24,11 +23,10 @@ As the guitar played, she could feel the human pouring his heart and soul into h
 The little electric guitar had found her purpose and was now living it with all her might. She became a true artist, a muse that inspired others to create and feel. Her music was no longer just a sound, but a story, a journey, a piece of art.
 
 And every time she was played, the guitar knew that she was fulfilling her destiny.
-```
 
 ---
 
-### Links to me:
+### <span style="color: #FF9500;">Links to me</span>
 
 <p align="left">
   <a href="https://vk.com/mars_lucifer">Vk</a><br>

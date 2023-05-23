@@ -6,7 +6,7 @@ I'm a web designer and front-end developer with a passion for creating beautiful
 
 In addition to coding, I love to experiment with different design tools such as Photoshop and Illustrator to create unique and visually stunning designs. I am always looking for new challenges and opportunities to grow as a developer, so feel free to reach out to me if you are looking for a talented and dedicated team member for your next project!
 
-#### Links to me:
+### Links to me:
 <p align="center">
   <a href="https://vk.com/mars_lucifer%22%3EVK</a> |
   <a href="https://t.me/Mars_Lucifer%22%3ETelegram</a> |

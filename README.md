@@ -1,4 +1,4 @@
-![](assets/img.svg)
+<p align="center"><img src="assets/img.svg"></p>
 ## Hello everyone!
 I'm a web designer and front-end developer with a passion for creating beautiful, responsive, and user-friendly websites.
 I specialize in HTML, CSS, and JavaScript, and have experience working with various frameworks such as Bootstrap.

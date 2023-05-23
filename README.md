@@ -29,7 +29,7 @@ And every time she was played, the guitar knew that she was fulfilling her desti
 ### Links to me:
 
 <p align="left">
-  <a href="https://vk.com/mars_lucifer%22%3EVK">Vk</a><br>
-  <a href="https://t.me/Mars_Lucifer%22%3ETelegram">Telegram</a><br>
+  <a href="https://vk.com/mars_lucifer">Vk</a><br>
+  <a href="https://t.me/Mars_Lucifer">Telegram</a><br>
   <a href="https://discord.com/">Discord - Mars Lucifer#4646</a><br>
 </p>

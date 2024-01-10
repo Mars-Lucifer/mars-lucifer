@@ -32,5 +32,5 @@ And every time she was played, the guitar knew that she was fulfilling her desti
   <a href="https://vk.com/mars_lucifer">Vk</a><br>
   <a href="https://t.me/Mars_Lucifer">Telegram</a><br>
   <a href="https://discord.com/">Discord - Mars Lucifer#4646</a><br>
-  <a href="https://portfolio-theta-amber-61.vercel.app/">Web-site</a><br>
+  <a href="https://www.mars-lucifer.ru/">Web-site</a><br>
 </p>

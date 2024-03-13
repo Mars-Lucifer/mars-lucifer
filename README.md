@@ -1,5 +1,5 @@
 <div>
-  <img src=https://sun9-39.userapi.com/impg/zX0oqPx1P0DsgW4Z-bnnkgXcOQXBwJt3E8qImg/gilfc24aEI8.jpg?size=1920x520&quality=95&sign=3f5174085c8b51d320452c4fa84df7c3&type=album>
+  <img src=/assets/1.png>
 </div>
 
 ## Обо мне
